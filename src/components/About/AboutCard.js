@@ -13,7 +13,7 @@ function AboutCard() {
 						<br />
 						I am currently a 3rd year undergrad student.
 						<br />
-						I have persuing B.Tech in Computer Science with specialization in
+						I am persuing B.Tech in Computer Science with specialization in
 						Artificial Intelligence and Machine Learning from Vellore Institute
 						of Technology, Chennai.
 						<br />
